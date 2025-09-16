@@ -2,7 +2,7 @@
 =
  
 
-![](https://blog.kakaocdn.net/dn/wMZaO/btsOpZdUddW/kQX0lCCo85gDCIS29Jo0k1/img.png)
+![](./images/232a866cf83b29a451c1ec8ed856b378.png)
 
 ### **인디피의 첫 번째 매장 방문기**
 
@@ -24,7 +24,7 @@
 
 map.naver.com](https://naver.me/GV2jWbyu)
 
-![](https://blog.kakaocdn.net/dn/lupMl/btsOqIbuTZU/iVr69t4CnlI2M8G6FUj9r0/img.png)
+![](./images/a5721ada100f501be332927c6ac8d135.png)
 
 카페 외관 모이폴폴
 
@@ -32,7 +32,7 @@ map.naver.com](https://naver.me/GV2jWbyu)
 
 모이폴폴의 추천 메뉴들이 귀엽게 붙어있는 것을 볼 수 있습니다.
 
-![](https://blog.kakaocdn.net/dn/bNR5F1/btsOpBrcTzN/A1VGqdAGPSwbrcnWItAd6k/img.png)
+![](./images/095525cb8b559486f8edda0fee1d1fed.png)
 
 감성 카페 모이폴폴
 
@@ -44,7 +44,7 @@ map.naver.com](https://naver.me/GV2jWbyu)
 
 ### 
 
-![](https://blog.kakaocdn.net/dn/cj7Abn/btsOqIP2AvT/oose9jWaxOR5A0HVanPo80/img.png)
+![](./images/c48dc6a3f1a6976aba75de596d8e5639.png)
 
 모이폴폴 카운터
 
@@ -56,15 +56,15 @@ map.naver.com](https://naver.me/GV2jWbyu)
 
 너무 달지 않아 부담 없고, 커피와도 잘 어울립니다.
 
-![](https://blog.kakaocdn.net/dn/djam7D/btsOpDbveKN/5eowrcoqAOyc9yhymV1Ekk/img.png)
+![](./images/775028367bdea4af0c1b474bbb98bbcd.png)
 
 감성 카페 모이폴폴
 
-![](https://blog.kakaocdn.net/dn/kUpDe/btsOqQmNdrI/Jlekf72KJSXwPa3hafcf3k/img.png)
+![](./images/aa365eaff3b3e73b9c76ed4d1892d2b0.png)
 
 모이폴폴 매장 사진
 
-![](https://blog.kakaocdn.net/dn/Dseq0/btsOqb6fToL/avK97YKk76qpkMiO6bHBx0/img.png)
+![](./images/5c9bc4d7f6c07cbee4577488d8b87f87.png)
 
 모이폴폴 카페 사진
 
@@ -74,7 +74,7 @@ map.naver.com](https://naver.me/GV2jWbyu)
 
 친구와 도란도란 이야기를 하기에도 좋은 카페입니다.
 
-![](https://blog.kakaocdn.net/dn/cjCQAI/btsOpdcLlcI/JLyejglkbeoXb6EsB1pKkK/img.png)
+![](./images/11d41d405ae5338e9a3484dfd025322a.png)
 
 카페 인테리어 모이폴폴
 
@@ -82,7 +82,7 @@ map.naver.com](https://naver.me/GV2jWbyu)
 
 감성이 한 껏 돋보이는 카페이죠
 
-![](https://blog.kakaocdn.net/dn/bAUxB9/btsOoOx2gc3/3sFvTOMfzKi1ObOt6PacW0/img.png)
+![](./images/11287219b7b550e7687f12ffbb55089b.png)
 
 ### **인디피가 바라보는 공간 Point**
 

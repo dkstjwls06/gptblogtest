@@ -1,6 +1,6 @@
 [인디피 방문기 #2] 노원 상계동, 브런치가 맛있는 감성 카페 '오피커피'
 =
-![](https://blog.kakaocdn.net/dn/diJaGX/btsOQI444iT/6Pyj3hKDkuvEjJxSu6K9s1/img.png)
+![](./images/2ef877fb6f1e187fee9a16bcce209cce.png)
 
 노원 상계동 감성카페 오피커피
 
@@ -21,7 +21,7 @@
 오피커피
 
 map.naver.com](https://naver.me/GzEDORSi)
-![](https://blog.kakaocdn.net/dn/vVkQO/btsOQAlARse/CWNe39KzhPSvGVRliCIVKK/img.png)
+![](./images/ab7d94abe6cba8d568c92ae9313bfc0c.png)
 
 노원구 카페 오피커피 외관
 
@@ -33,7 +33,7 @@ map.naver.com](https://naver.me/GzEDORSi)
 
 마음까지 편안하게 만들어주는 카페입니다.
 
-![](https://blog.kakaocdn.net/dn/cZKlN9/btsOSTjaZ7P/KeGXUvl7Mhw1LPH0rKdKH1/img.png)![](https://blog.kakaocdn.net/dn/l2xpF/btsOR8nMUCA/JHcKVwGPwC3OkGXvguGp60/img.png)
+![](./images/afbca488093d861841231eaa2390bd6e.png)![](./images/abe7441dea4ef3e9928cb6d4d440c087.png)
 
 오피커피 대표 메뉴 / 출처 - 네이버지도 : 오피커피
 
@@ -45,11 +45,11 @@ map.naver.com](https://naver.me/GzEDORSi)
 
 다양한 브런치와 디저트를 즐길 수 있습니다.
 
-![](https://blog.kakaocdn.net/dn/bgcq0v/btsOR8uy6Hl/u7R6rNs6jdaOkEHfcUJtN1/img.png)
+![](./images/24d2ee41c2b46511325f27e8b509f93e.png)
 
 은은한 햇살이 들어오는 편안한 오피커피
 
-![](https://blog.kakaocdn.net/dn/sQfVC/btsORo5Nle6/QjtBlEfPRIIVGtCK4IOe80/img.png)
+![](./images/015d082edc07db84fec32cf5a73c1ef8.png)
 
 책읽기 좋은 카페 오피커피
 
@@ -62,11 +62,11 @@ map.naver.com](https://naver.me/GzEDORSi)
 저희는 둘이서 방문해 수다 떨며 디저트도 맛있게 먹었답니다.  
 케이크도 정말 맛있었어요
 
-![](https://blog.kakaocdn.net/dn/bTI8zz/btsOSNXz07O/M6AMjzDYmLHzouvcsj0oV1/img.png)
+![](./images/ff12da87c21c10e0f025f1540eeb7f34.png)
 
 소품들로 꾸며진 감성카페 오피커피
 
-![](https://blog.kakaocdn.net/dn/LbjIp/btsOR7WIgaJ/LcM4jt1hvAS8HnEKhcZq70/img.png)
+![](./images/3482203abfc09be1420ba147583efc70.png)
 
 디저트가 맛있는 카페 노원구 오피커피
 

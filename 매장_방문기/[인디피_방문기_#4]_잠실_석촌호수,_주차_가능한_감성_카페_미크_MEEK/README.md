@@ -1,6 +1,6 @@
 [인디피 방문기 #4] 잠실 석촌호수, 주차 가능한 감성 카페 미크 MEEK
 =
-![](https://blog.kakaocdn.net/dn/cawXRP/btsPf2OSEXv/Otk29HhBmyL1WzRBkG6iJ0/img.png)
+![](./images/bd46cb2860cee8518285528f2efd69ff.png)
 
 잠실 석촌 카페 미크 MEEK
 
@@ -22,7 +22,7 @@
 
 map.naver.com](https://naver.me/xf5A47c0)
 
-![](https://blog.kakaocdn.net/dn/KKIkH/btsPfNR2EKX/Ls6EFWTLRllxCCfhRWEhp1/img.png)
+![](./images/2702ea4f6ad8b9934a0a4b82b06c923f.png)
 
 석촌호수 카페 미크 MEEK 입구 / 매장음악 서비스 인디피 뮤직 방문기
 
@@ -35,14 +35,14 @@ map.naver.com](https://naver.me/xf5A47c0)
 미크는 (비록 사진은 없지만) **건물 뒤편에 최대 5대까지 주차가 가능**해  
 자가용을 이용하시는 분들도 편하게 방문하실 수 있습니다
 
-![](https://blog.kakaocdn.net/dn/HWGL4/btsPfjKAK7y/Od7WBKtQQomPoEcuAbQaoK/img.png)
+![](./images/d6517a7838fb49e9f955aae287210a66.png)
 
 잠실 카페 미크 MEEK 디저트 메뉴 / 출처 - 네이버지도 '미크'
 
 미크에서는 다양한 디저트 메뉴도 즐길 수 있어요.  
 다음에 방문하면 다른 디저트들도 한 번 먹어보려구요
 
-![](https://blog.kakaocdn.net/dn/9GjUR/btsPhr0X66l/65PLbEO0MttjfPdrYHAdzK/img.png)
+![](./images/c94e05033621c775f00836fd46922dbb.png)
 
 잠실 카페 미크 MEEK 매장 / 매장음악 서비스 인디피 뮤직 방문기
 
@@ -50,7 +50,7 @@ map.naver.com](https://naver.me/xf5A47c0)
 인디피가 방문한 시간엔 한산했지만,  
 평소엔 **사람들로 북적이는 핫플**이라고 해요
 
-![](https://blog.kakaocdn.net/dn/cfQ0yz/btsPfirl5pd/Q7KhQaYZ3TsgL6sGsrqAMK/img.png)
+![](./images/e5ecaef13a77bb77793ca3764b1b9a14.png)
 
 석촌역 카페 미크 MEEK 풍경 / 매장음악 서비스 인디피 뮤직 방문기
 
@@ -58,7 +58,7 @@ map.naver.com](https://naver.me/xf5A47c0)
 
 한적하니 맛있는 커피와 디저트를 먹으며 쉬어가기에도 안성맞춤이죠
 
-![](https://blog.kakaocdn.net/dn/bGhU73/btsPgZ4MDZN/kMrgtXkGsGKLK0LhPpean0/img.png)
+![](./images/934cf80b71e4a4b25139a3a0f544fdc7.png)
 
 잠실 석촌 카페 미크 MEEK / 매장음악 서비스 인디피 뮤직 방문기
 
@@ -66,7 +66,7 @@ map.naver.com](https://naver.me/xf5A47c0)
 키우는 식물들마저 감각적이네요.  
 **공간 곳곳에 자연스럽게 놓인 식물들이 분위기를 한층 더 살려줘요.**
 
-![](https://blog.kakaocdn.net/dn/cFV7LE/btsPfYeB3c9/mbxDlSTp0kaMiaWXaPVxcK/img.png)
+![](./images/7f24cfd7889c023d31ae67c0f00b4d66.png)
 
 잠실 석촌 카페 미크 MEEK 커피 디저트 / 매장음악 서비스 인디피 뮤직 방문기
 

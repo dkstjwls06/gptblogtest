@@ -1,6 +1,6 @@
 [인디피 방문기 #3] 연희동, 작업하기 좋은 조용한 카페 '혹스턴'
 =
-![](https://blog.kakaocdn.net/dn/8wUAT/btsOWHp4Ttx/andkdEKBb0yMqNKw2qIvu0/img.png)
+![](./images/4ef0a7991db1209f8e1760046b19e9df.png)
 
 ### **인디피의 세 번째 매장 방문기**
 
@@ -19,7 +19,7 @@
 혹스턴
 
 map.naver.com](https://naver.me/Fr7pVp0c)
-![](https://blog.kakaocdn.net/dn/bdNPz4/btsOWMdUxLG/uz9YMPAfZ0XOlpSRfqSOK1/img.png)
+![](./images/1344d61197dae58f95c3f856b985b425.png)
 
 연희동 카페 혹스턴 Hoxton 입구
 
@@ -27,7 +27,7 @@ map.naver.com](https://naver.me/Fr7pVp0c)
 계단을 따라 올라오면 입구에서 **Hoxton 로고**가 가장 먼저 손님을 맞이합니다.  
 **블랙 톤과 조명의 조화**는 이 공간의 콘셉트를 가장 잘 보여주는 포인트 중 하나죠.
 
-![](https://blog.kakaocdn.net/dn/bFntMQ/btsOXSLlwdM/4PyBz91fTeX6xd3GD7jp0k/img.png)![](https://blog.kakaocdn.net/dn/d7bY8r/btsOWjbYBVB/Up14NHsob96colXi9UeKlk/img.png)
+![](./images/2c10608881bbf0b8a9abd784b65400f5.png)![](./images/5cabe0d761907af403af919df5686f8b.png)
 
 혹스턴 대표 메뉴 / 출처 - 네이버지도 : 혹스턴 Hoxton
 
@@ -42,7 +42,7 @@ map.naver.com](https://naver.me/Fr7pVp0c)
 
 요거트 바닐라부터 버터바, 티라미수 등 다양하게 준비되어 있습니다.
 
-![](https://blog.kakaocdn.net/dn/cZ203c/btsOXl1BGCe/uyFgY3Xy63DEgzuvSlRnu0/img.png)
+![](./images/1cba1453a01b6d296e456c4af9e4196b.png)
 
 연희동 공부하기 좋은 카페 혹스턴 Hoxton
 
@@ -53,11 +53,11 @@ map.naver.com](https://naver.me/Fr7pVp0c)
 조용하고 감성적인 분위기 속에서  
 창밖의 풍경마저 공간의 일부가 되어, 혹스턴만의 무드를 완성해 줍니다.
 
-![](https://blog.kakaocdn.net/dn/vYHZB/btsOWqPGeO0/pqYskQwIKAkZkZ6546Ke4K/img.png)![](https://blog.kakaocdn.net/dn/d8NK3a/btsOUX8UNli/jt2BDFegScpiMRa4GUSoUk/img.png)
+![](./images/a75a267ca16e0d25bcab4f52fd75b591.png)![](./images/745541eaece85465756e7d9775422648.png)
 
 연희동 작업하기 좋은 카페 / 통창있는 카페 혹스턴 Hoxton
 
-![](https://blog.kakaocdn.net/dn/bEL4zY/btsOWJIeVP2/31dKhhPde1i8PQDNFv4ii0/img.png)
+![](./images/52cc449ca3c023dc2dd2f59bad3d8d51.png)
 
 연희동 작업하기 좋은 조용한 카페 혹스턴 Hoxton
 
@@ -66,13 +66,13 @@ map.naver.com](https://naver.me/Fr7pVp0c)
 잔잔하게 흐르는 음악과 어우러져  
 **작업이나 공부에 집중하기에도 안성맞춤이었습니다**
 
-![](https://blog.kakaocdn.net/dn/cVdNcW/btsOWaT5cQN/ZNKrKzkwvpouKxYIrkKFi0/img.png)
+![](./images/791fb515010e9eac79f039d164f04389.png)
 
 연희동 느좋카페 혹스턴 Hoxton
 
 소품들마저 감각적인 혹스턴입니다
 
-![](https://blog.kakaocdn.net/dn/bHhN5w/btsOWpDfrjA/kniP19KOsgDOINvzexikkK/img.png)
+![](./images/3bb449ab40cd2910844e16a610b71adf.png)
 
 연희동 카페 혹스턴 / 히비스커스 티 Hoxton
 

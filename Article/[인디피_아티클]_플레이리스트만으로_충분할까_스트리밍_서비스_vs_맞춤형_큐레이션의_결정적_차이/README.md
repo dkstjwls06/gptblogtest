@@ -1,6 +1,6 @@
 [인디피 아티클] 플레이리스트만으로 충분할까? 스트리밍 서비스 vs 맞춤형 큐레이션의 결정적 차이
 =
-![](https://blog.kakaocdn.net/dn/URHOG/btsOthZk0HU/JMIWhGO9nSYUselUWA7Tv1/img.jpg)
+![](./images/7e7a131c3b4e30b833634a781c480456.jpg)
 
 매장 음악 플레이리스트 / 카페 음악 플레이리스트 / Pixabay
 
@@ -21,7 +21,7 @@
 
 오늘은 스트리밍 서비스와 인디피처럼 맞춤형 큐레이션 서비스의 결정적 차이에 대해 이야기해보려 합니다.
 
-![](https://blog.kakaocdn.net/dn/bLiWnN/btsOsuESFSJ/PSFzo4bDgjgkELYzKfcv6k/img.jpg)
+![](./images/828956bb6dec3a514babd1cdc53ad4da.jpg)
 
 매장 음악 스트리밍 / pixabay
 
@@ -39,7 +39,7 @@ Top100을 틀면, 대중성 있는 최신 음악도 바로 재생할 수 있죠.
 * **무드 붕괴**: 곡마다 **장르, 템포, 분위기**가 달라 매장 분위기와 어울리지 않는 경우도 많습니다.
 * **브랜드와 거리감**: '좋은 음악'이지만, '내 매장'과는 어딘가 어긋난 느낌을 줄 수 있습니다.
 
-![](https://blog.kakaocdn.net/dn/bcpjxj/btsOrmOVF6V/A30XeXI48JKsfoeknbFYLk/img.jpg)
+![](./images/6bdc30d1893f8a65e942e576552b03ed.jpg)
 
 바쁜 매장 / 식당 / pixabay
 
@@ -57,7 +57,7 @@ Top100을 틀면, 대중성 있는 최신 음악도 바로 재생할 수 있죠.
 
 하지만 그 안에는 뜬금없는 선곡이나, 분위기를 깨는 곡이 섞여 있을 수밖에 없습니다.
 
-![](https://blog.kakaocdn.net/dn/qP3hS/btsOsuLDkAV/Fnef6n7xEH6SmkSnwuuIxk/img.jpg)
+![](./images/a1672be90d83494da9bb46ec0b578890.jpg)
 
 매장 음악 큐레이션 서비스 / 인디피 /pixabay
 
@@ -69,7 +69,7 @@ Top100을 틀면, 대중성 있는 최신 음악도 바로 재생할 수 있죠.
 
 **전문 음악 큐레이션 서비스**를 추천드립니다.
 
-![](https://blog.kakaocdn.net/dn/mAfXm/btsOrz1zwf8/8tN2JQXQEVnJ5y4ztIm5l1/img.png)
+![](./images/f9ee9a3fbe8f3079e005911afe790653.png)
 
 매장 음악 서비스 인디피
 
@@ -87,7 +87,7 @@ Top100을 틀면, 대중성 있는 최신 음악도 바로 재생할 수 있죠.
 * 저녁시간엔 감성적인 몽환팝 등
 * 매장 운영 목적과 분위기에 따라 음악을 전략적으로 구성합니다.
 
-![](https://blog.kakaocdn.net/dn/c8cJ9N/btsOttkWaV5/KHcLBOhJOjQ6CmBYr0y7PK/img.jpg)
+![](./images/39af1b687fdd19c9658f312f3f8398f9.jpg)
 
 카페 고객 / pixabay
 

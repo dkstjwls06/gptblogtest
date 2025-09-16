@@ -1,6 +1,6 @@
 [INDP Playlist] 지친 직장인이 가득한 지하철에서 특별해지고 싶을 때 듣는 팝송 플리
 =
-![](https://blog.kakaocdn.net/dn/dMcxDS/btsOLtziWOo/4E8ypTYdGF2YAcILLRZod0/img.jpg)
+![](./images/61ec7afc2f782fd1f63d6ca1a8ceb663.jpg)
 
 퇴근길 지하철 플리 / 인디피 / pixabay
 
@@ -41,7 +41,7 @@
 
 ### 
 
-![](https://blog.kakaocdn.net/dn/B6FTB/btsOKSNgvOk/qDaD7Dtx8m0JWe63k5OUzk/img.jpg)
+![](./images/c551cf3b857409a71b692f9aeebf95fb.jpg)
 
 In touch - Midas Hutch, Charli Taft / 플레이리스트
 
@@ -67,7 +67,7 @@ In touch - Midas Hutch, Charli Taft / 플레이리스트
 
 여러분도 한 번 들어보세요 ☺️
 
-![](https://blog.kakaocdn.net/dn/bPT7eK/btsOLwpekN4/gykFmgkTGPiVhIW1JHpgOk/img.png)
+![](./images/661e5688dd0691a67d21625b2313c44a.png)
 
 매장 음악 큐레이션 서비스 / 인디피
 

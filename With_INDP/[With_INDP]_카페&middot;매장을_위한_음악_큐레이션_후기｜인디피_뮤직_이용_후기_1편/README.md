@@ -1,6 +1,6 @@
 [With INDP] 카페&middot;매장을 위한 음악 큐레이션 후기｜인디피 뮤직 이용 후기 1편
 =
-![](https://blog.kakaocdn.net/dn/bmnYyg/btsPfuZnte3/SBlpe9qiaTmA4Q3fVi1nX1/img.png)
+![](./images/d42d53e59d3f7c3169dc661519d3d30b.png)
 
 매장음악 서비스 / 인디피 뮤직 / 공간음악 서비스
 
@@ -29,11 +29,11 @@
 > "대표님께서 매장을 둘러보시고 많은 소통을 통해 시간대별, 기간별로 어울리는 플레이리스트를 구성해 주시고 여러 요청사항에도 빠른 피드백을 적용시켜 주어 너무 좋게 이용하고 있습니다!  
 > 모르고 있던 새로운 음악들도 알게 되어 저의 개인플레이리스트도 꾸준히 업데이트되고 있어요!!! "
 
-![](https://blog.kakaocdn.net/dn/b10vbb/btsPgd3MhD5/fkhCDoSx6VoCdgTd5azKS1/img.jpg)
+![](./images/e2691e55269f053dfc11d499bff2d61c.jpg)
 
 카페 공명 / 출처 - 네이버지도 '카페 공명 연남점'
 
-![](https://blog.kakaocdn.net/dn/cstEOv/btsPeJgeUvB/FTXChs8Zo4s8MH2yWUlOuk/img.png)
+![](./images/b5d339f4f87c6e23997cf138d9186ce9.png)
 
 매장 음악 서비스 / 공간 음악 서비스 / 인디피 뮤직 후기 / 카페 공명
 
@@ -51,8 +51,8 @@ map.naver.com](https://naver.me/GPdot1Ua)
 
 > "인디피뮤직 만나고서부터 카페에 플레이리스트 걱정 한 적이 없습니다. 카페 분위기에 맞게 큐레이팅돼서 같이 일 하는 직원들도 노래 좋다고 칭찬 많이 들었네요. 그리고 오픈 점심 오후 시간에 맞는 노래로 맞춰줘서 일할 때 더 으쌰으쌰 하게 해 줍니다."
 
-![](https://blog.kakaocdn.net/dn/dj7F1E/btsPgeO6M7c/JIwpKYsToB39icFWCYBKZK/img.png)
-![](https://blog.kakaocdn.net/dn/cQ9Qst/btsPgyzIlpr/bDlzk2wnxFCsm0AWacT6b0/img.png)
+![](./images/3054a3f3b2f248a2b7bf57934292bc08.png)
+![](./images/84929e00c8512de40647c713e617b317.png)
 
 매장 음악 서비스 / 공간 음악 서비스 / 인디피 뮤직 후기 / 이고 수플레 합정본점
 
@@ -72,8 +72,8 @@ map.naver.com](https://naver.me/5ne4sKEZ)
 
 > "서울볼더스에서는 매주 [인디피 뮤직]에서 제공하는 맞춤형 플레이리스트를 틀고 있습니다. 덕분에 센터 분위기가 한층 더 활기차고 집중도 높아졌습니다. 무엇보다도 클라이밍장에 맞춘 선곡 덕분에 회원분들이 많이 좋아하십니다. 이제는 음악까지 전문가의 손을 빌리니, 서울볼더스의 완성도가 한층 더 올라간 느낌입니다. 고맙습니다, 다음 주 리스트도 기대하겠습니다!!  "
 
-![](https://blog.kakaocdn.net/dn/cpccUN/btsPfsHFy9H/F4GVGZoegUx8LArKs3kcRk/img.jpg)
-![](https://blog.kakaocdn.net/dn/bGW9ic/btsPeu4DQ0u/9saZ2ZXKvKAZzFpNA7xO6k/img.png)
+![](./images/0b5d821888610f6c7099315febe9d4f8.jpg)
+![](./images/352b7cee43d47d46a96478f97c666e23.png)
 
 매장 음악 서비스 / 공간 음악 서비스 / 인디피 뮤직 후기 / 서울볼더스
 
@@ -92,11 +92,11 @@ map.naver.com](https://naver.me/I55aOXbj)
 
 > "저희 카페 페어링 페어드에서 1년 넘게 쓰고 있는데, 진짜 만족해요. 음악 선곡이 은근 스트레스였는데, 매장 분위기에 맞춰서 딱 좋은 플레이리스트 만들어주셔서 너무 편해졌어요. 님들도 “음악 좋다”라고 많이 물어보셔서 뿌듯하고요. 계절이나 무드 바꿀 때도 계속 맞춤으로 추천받을 수 있어서 좋아요. 카페 하시는 분들한테 강추합니다! ^^"
 
-![](https://blog.kakaocdn.net/dn/rn7Of/btsPga65bHP/A0DJsCYFRcwvvZHoCAwnn1/img.png)
+![](./images/913c0e0a3dc46675fefb1bfa1e06cf05.png)
 
 페어링페어드 / 인디피 뮤직 / 출처 - 네이버지도 '페어링페어드'
 
-![](https://blog.kakaocdn.net/dn/8AfBU/btsPcjqsj0O/jBNTmpwybwtuH8uMMrfoM1/img.png)
+![](./images/1ed5caba83a8e8b17e0941c62a102aef.png)
 
 매장 음악 서비스 / 공간 음악 서비스 / 인디피 뮤직 후기 / 페어링페어드
 
@@ -114,11 +114,11 @@ map.naver.com](https://naver.me/FdCtU5qP)
 
 > "인디펜던트와 함께한 지 2년은 넘지 않았나 싶네요. 사실 자영업 하는데 음악적인 감각이 뛰어나진 안잖아요. 보다 더 뛰어난 감각이 있는 분들이 매장의 컨셉의 맞게 제공해 주는 음악을 거절할 이유가 없었던 거 같습니다. 매번 신경주 셔서 감사하고 앞으로도 좋은 서비스 잘 부탁드리겠습니다."
 
-![](https://blog.kakaocdn.net/dn/YIkgc/btsPfvRAcMn/bCHk4BOPpk2qiHunL00HQ0/img.png)
+![](./images/ee4b12e3f69cf9da175e648579a88b65.png)
 
 스모어사이트 / 인디피 뮤직 / 출처 - 네이버지도 '스모어사이트'
 
-![](https://blog.kakaocdn.net/dn/bZ0BaG/btsPeLylT9c/Aztq7fLsVrOYEv1WsjdRHK/img.png)
+![](./images/46a21d7d189d44ea0dec8b72fc062925.png)
 
 매장 음악 서비스 / 공간 음악 서비스 / 인디피 뮤직 후기 / 스모어사이트
 

@@ -1,6 +1,6 @@
 [INDP Playlist] 신선한 바람이 불고 유난히 한강가고 싶을 때 듣는 인디피 플리
 =
-![](https://blog.kakaocdn.net/dn/lzmDg/btsOWpwsPyy/onnBHBKnksbJKrESt34Hj0/img.jpg)
+![](./images/8aa9f350d425e6bcf4ba4391f2a526a4.jpg)
 
 한강가고 싶은 플레이리스트 ㅣ 인디피 뮤직
 
@@ -83,11 +83,11 @@
 
 여러분도 꼭 한 번 들어보세요 ☺️
 
-![](https://blog.kakaocdn.net/dn/zyRXs/btsOXIPHAjM/9eUJ9keqED0mfTnB7b98J1/img.jpg)
+![](./images/20ce8e61f94769194bbf7402b429eeda.jpg)
 
 Saturn - SZA
 
-![](https://blog.kakaocdn.net/dn/pjoJc/btsOVbZ4EqC/CBVhKCBVROm9vF5wWYUATk/img.png)
+![](./images/cc537c60ad128cd844fc4ac79188c07d.png)
 
 매장 음악 큐레이션 서비스 / 인디피 뮤직
 

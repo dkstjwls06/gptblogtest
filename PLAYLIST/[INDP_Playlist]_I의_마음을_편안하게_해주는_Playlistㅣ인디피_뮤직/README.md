@@ -1,6 +1,6 @@
 [INDP Playlist] I의 마음을 편안하게 해주는 Playlistㅣ인디피 뮤직
 =
-![](https://blog.kakaocdn.net/dn/csG0w4/btsPmJtQPXn/qNEWelaNVozgRuBk1VgpaK/img.jpg)
+![](./images/249d1a7776ccc6038665370523af65f0.jpg)
 
 I의 플레이리스트 / 인디피 뮤직 / 출처 - pixabay
 
@@ -48,7 +48,7 @@ I의 플레이리스트 / 인디피 뮤직 / 출처 - pixabay
 * **I'MMORTAL (feat. sogumm)** - 실리카겔
 * **Waste My Time** - Grace VanderWaal
 
-![](https://blog.kakaocdn.net/dn/depcYO/btsPkoDQWg6/Z22WrD53f1TTHTOkM72VNk/img.jpg)
+![](./images/3d4c219f1a3e4b4fb7901f9ef1ecb885.jpg)
 
 Maybe - half.alive
 
@@ -76,7 +76,7 @@ Maybe - half.alive
 
 여러분도 꼭 한 번 들어보세요 ☺️
 
-![](https://blog.kakaocdn.net/dn/kKV2x/btsPiWomk5D/XAt20WrNI4IUZvRYUSWOak/img.png)
+![](./images/34808fb55ca2a63c246b24af78be2163.png)
 
 매장 음악 서비스 뮤직 / 공간 음악 큐레이션
 

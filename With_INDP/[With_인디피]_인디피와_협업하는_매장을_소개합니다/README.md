@@ -1,6 +1,6 @@
 [With 인디피] 인디피와 협업하는 매장을 소개합니다
 =
-![](https://blog.kakaocdn.net/dn/cuwLCw/btsOGl75Ho2/4lxJb8mxJgk0gkZ2vjIGW1/img.png)
+![](./images/2dcfa2df431ddd69870fce243799c980.png)
 
 매장음악 서비스 인디피 / 공간음악 큐레이션 서비스 인디피
 
@@ -19,7 +19,7 @@
 
 인디피가 매장과 어떤 방식으로 협업하는지 보여드리려고 합니다.
 
-![](https://blog.kakaocdn.net/dn/uvXb3/btsOFO3YujI/OsEj4tX2o2a6Zp8D8zOyC0/img.png)
+![](./images/8bcce0cc7b1f08f671afe072bac37ddd.png)
 
 인디피 협업 매장 - 이고수플레 합정 / 카페 음악 플레이리스트
 
@@ -40,7 +40,7 @@
 
 음악이 필요한 곳이라면, 인디피는 어디든 큐레이션 해드립니다
 
-![](https://blog.kakaocdn.net/dn/bQGQhW/btsOFND1Jky/aUGdQxpLRQkJqMLLKHFXSK/img.png)
+![](./images/b6f013b9769fdaab45f72908fe8df0a6.png)
 
 인디피 협업 매장 - 이고수플레 합정 / 카페 음악 플레이리스트
 
@@ -64,7 +64,7 @@
 
 ### 
 
-![](https://blog.kakaocdn.net/dn/SqCWO/btsOFk3F606/RKO73w3QydKZayfKorkauk/img.png)
+![](./images/1a916388755940493e830463698e1729.png)
 
 인디피 협업 매장 - 정숙성 샤로수길 본점식당 음악 플레이리스트
 
@@ -79,7 +79,7 @@
 
 ### 
 
-![](https://blog.kakaocdn.net/dn/1QLXt/btsOFGE8Ij7/p2nNZNnvvQz4zVK8RhBKE1/img.png)
+![](./images/ee9e1db22d7567eb4fc9719bc4f09d5f.png)
 
 출처 - 네이버지도 서울볼더스 클라이밍 목동점
 
@@ -113,7 +113,7 @@
 
 [협업매장 확인하러 가기](https://verby.co.kr/playlist)
 
-![](https://blog.kakaocdn.net/dn/X75eT/btsOFpRd7Xh/K2Bimsd5k0I5pjipocZVCk/img.png)
+![](./images/a6147ede3b6fbff6d749af780216bfbd.png)
 
 인디피 협업 매장 워크풀니스 합정
 
