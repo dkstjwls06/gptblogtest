@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "0 0 */1 * *" # (1)
+    - cron: "0 15 * * *" # (1)
 
 jobs:
   build:
@@ -21,13 +21,10 @@ jobs:
     - name: Install dependencies # (2)
       run: |
         python3 -m pip install --upgrade pip
-        pip3 install feedparser
-        pip3 install markdownify
+        pip3 install feedparser markdownify requests beautifulsoup4
 
     - name: Update posts # (3)
       run: |
-        ls -l .
-        ls -l ./gptblogtest
         python3 ./gptblogtest/posts-update-automation.py
 
     - name: Commit and push when there are changes # (4)
