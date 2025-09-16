@@ -26,12 +26,6 @@ jobs:
 
     - name: Update posts # (3)
       run: |
-        git config --global --add safe.directory /home/runner/work/gptblogtest/gptblogtest
-        git config --local --name-only --get-regexp core\.sshCommand
-        git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
-        git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
-        git config --local --unset-all http.https://github.com/.extraheader
-        git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
         python3 posts-update-automation.py
 
     - name: Commit and push when there are changes # (4)
