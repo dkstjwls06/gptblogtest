@@ -27,8 +27,8 @@ jobs:
     - name: Update posts # (3)
       run: |
         ls -l .
-        ls -l ..
-        python3 posts-update-automation.py
+        ls -l ./gptblogtest
+        python3 p./gptblogtest/osts-update-automation.py
 
     - name: Commit and push when there are changes # (4)
       run: |
