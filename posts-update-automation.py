@@ -4,7 +4,7 @@ import re
 from markdownify import markdownify
 import html
 
-BLOG_URI = "https://indp.tistory.com//"
+BLOG_URI = "https://indp.tistory.com/"
 GITHUB_URI = "https://github.com/dkstjwls06/gptblogtest/tree/main"
 
 
