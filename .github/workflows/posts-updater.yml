@@ -26,7 +26,7 @@ jobs:
 
     - name: Update posts # (3)
       run: |
-        python3 /home/runner/work/gptblogtest/posts-update-automation.py
+        python3 posts-update-automation.py
 
     - name: Commit and push when there are changes # (4)
       run: |
