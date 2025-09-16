@@ -144,7 +144,6 @@ def update_readme(category: str):
         with open("README.md", "a", encoding="utf-8") as f:
             f.write(f"\n- [{category}]({GITHUB_URI}/{safe(category)})")  # 슬래시 누락 수정
 
-    sort_toc()
 
 def update(entries: list):
     for e in entries:
